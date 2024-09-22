@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	// Soal 2 : carilah bilangan prima dari 1 - 100
+	// Soal  : carilah bilangan prima dari 1 - 100
 
 	// Deklarasi slice kosong untuk menampung bilangan prima
 	var prima []int

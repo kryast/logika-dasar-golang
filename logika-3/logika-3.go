@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	// Soal 1: pisahkan angka Ganjil dan Genap dari angka 1 sd 100
+	// Soal : pisahkan angka Ganjil dan Genap dari angka 1 sd 100
 
 	var Genap []int  // buat array untuk menampung angka genap
 	var Ganjil []int // buat array untuk menampung angka ganjil
