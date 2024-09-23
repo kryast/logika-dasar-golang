@@ -17,7 +17,7 @@ func main() {
 	**********
 	**********
 	**********
-	dari input angka 5
+	dari input angka 10
 	*/
 
 	kotak := 10
